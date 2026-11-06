@@ -13,13 +13,16 @@ Driven by curiosity, discipline, and continuous learning. I believe in understan
 | <blockquote><i>"Prudent men know that in major crises you must anticipate events before they drag you down."</i><br><br><b>— Niccolò Machiavelli</b></blockquote> | <blockquote><i>"Whoever wants to be first must be last of all and servant of all."</i><br><br><b>— Jesus of Nazareth</b></blockquote> |
 | <blockquote><i>"Whoever aspires to power must know how to read the terrain and act when others hesitate."</i><br><br><b>— Niccolò Machiavelli</b></blockquote> | <blockquote><i>"With man this is impossible, but with God all things are possible."</i><br><br><b>— Jesus of Nazareth</b></blockquote> |
 
+
 # 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kingxth&theme=swift&hide_border=true&show_icons=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Kingxth&theme=swift&hide_border=true" />
-  <br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingxth&theme=swift&hide_border=true&layout=compact&langs_count=10" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kingxth&show_icons=true&theme=swift&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kingxth&theme=swift&hide_border=true" />
+<br>
+<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kingxth&layout=compact&theme=swift&hide_border=true" />
 
 </div>
 ---
