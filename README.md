@@ -18,14 +18,14 @@ Driven by curiosity, discipline, and continuous learning. I believe in understan
 
 <div align="center">
 
-<img width="90%" src="https://github-stats-extended.vercel.app/api?username=Kingxth&show_icons=true&theme=swift&hide_border=true&include_all_commits=true" />
+<img width="65%" src="https://github-stats-extended.vercel.app/api?username=Kingxth&show_icons=true&theme=swift&hide_border=true&include_all_commits=true" />
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=Kingxth&theme=swift&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=Kingxth&theme=swift&hide_border=true" />
 
 <br><br>
 
-<img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kingxth&layout=compact&theme=swift&hide_border=true&langs_count=8" />
+<img width="65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kingxth&layout=compact&theme=swift&hide_border=true&langs_count=8" />
 
 </div>
