@@ -8,7 +8,7 @@ Driven by curiosity, discipline, and continuous learning. I believe in understan
 
 
 # 💬 Quotes:
-| Strategy & Anticipation | Vision & Service |
+| Strategy  | Vision & Service |
 | :--- | :--- |
 | <blockquote><i>"Prudent men know that in major crises you must anticipate events before they drag you down."</i><br><br><b>— Niccolò Machiavelli</b></blockquote> | <blockquote><i>"Whoever wants to be first must be last of all and servant of all."</i><br><br><b>— Jesus of Nazareth</b></blockquote> |
 | <blockquote><i>"Whoever aspires to power must know how to read the terrain and act when others hesitate."</i><br><br><b>— Niccolò Machiavelli</b></blockquote> | <blockquote><i>"With man this is impossible, but with God all things are possible."</i><br><br><b>— Jesus of Nazareth</b></blockquote> |
